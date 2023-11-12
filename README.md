@@ -34,4 +34,8 @@ I used the following datasets;
 
 https://www.kaggle.com/datasets/saurabhbagchi/sarcasm-detection-through-nlp
 
+All the data processing and model training are found in the following kaggle notebook;
+
+https://www.kaggle.com/code/robertgembe/making-sentiment-programmable-using-embeddings/notebook
+
 
