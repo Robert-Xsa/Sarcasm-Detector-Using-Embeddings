@@ -10,18 +10,22 @@ A sarcasm detector using embeddings is a system that leverages word embeddings, 
 
 The general process for building a sarcasm detector using embeddings involves the following steps:
 
-Embedding Layer:
+**Embedding Layer:**
 
 Use pre-trained word embeddings to create an embedding layer. This layer maps words in the input text to their corresponding dense vector representations.
-Sequence Padding:
+
+**Sequence Padding:**
 
 Preprocess the input text by padding or truncating sequences to ensure they have a consistent length.
-Model Architecture:
+
+**Model Architecture:**
 
 Build a neural network model that includes the embedding layer, followed by additional layers for learning sarcasm-related patterns.
-Training:
+
+**Training:**
 
 Train the model on a labeled dataset where instances of sarcasm are marked. The model learns to capture patterns associated with sarcasm from the embedded representations of words.
-Evaluation:
+
+**Evaluation:**
 
 Evaluate the model's performance on a separate test dataset to assess its ability to generalize to new instances of sarcasm.
