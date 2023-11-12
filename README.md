@@ -1,0 +1,1 @@
+Sarcasm is a form of verbal irony that is intended to convey contempt or ridicule. It involves saying something but meaning the opposite, often in a dry or cutting tone. Sarcasm is a type of figurative language and is commonly used in everyday communication, literature, and humor.
