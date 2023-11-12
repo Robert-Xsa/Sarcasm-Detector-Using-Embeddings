@@ -29,3 +29,9 @@ Train the model on a labeled dataset where instances of sarcasm are marked. The 
 **Evaluation:**
 
 Evaluate the model's performance on a separate test dataset to assess its ability to generalize to new instances of sarcasm.
+
+I used the following datasets;
+
+https://www.kaggle.com/datasets/saurabhbagchi/sarcasm-detection-through-nlp
+
+
