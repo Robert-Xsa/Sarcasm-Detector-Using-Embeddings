@@ -1,4 +1,4 @@
-**Word embeddings**
+**1. Word embeddings**
 
 Refer as a dense vector representations of words, typically in a continuous vector space, where the positioning of words reflects their semantic relationships. These representations are learned from large corpora of text using unsupervised learning methods, and they capture the meanings of words in a way that is useful for various natural language processing (NLP) tasks.
 
@@ -48,7 +48,7 @@ Alternative; Also i used a pretrained embedding from tensorflow hub. Follow the 
 
 https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
 
-**Recurrent Neural Networks (RNNs)**
+**2. Recurrent Neural Networks (RNNs)**
 
 Refer as a type of neural network architecture designed for handling sequential data. Unlike traditional feedforward neural networks, where the information flows in one direction (from input to output), RNNs have connections that create cycles, allowing information to persist.
 
