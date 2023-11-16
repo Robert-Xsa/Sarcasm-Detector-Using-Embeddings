@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/saurabhbagchi/sarcasm-detection-through-nlp
 
 All the data processing and model training are found in the following kaggle notebook;
 
-https://www.kaggle.com/code/robertgembe/making-sentiment-programmable-using-embeddings/notebook
+https://www.kaggle.com/code/robertgembe/making-sentiment-programmable-using-embeddings/
 
 Alternative; Also i used a pretrained embedding from tensorflow hub. Follow the following link for my notebook to see;
 
