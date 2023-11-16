@@ -46,3 +46,5 @@ https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorf
 
 Refer as a type of neural network architecture designed for handling sequential data. Unlike traditional feedforward neural networks, where the information flows in one direction (from input to output), RNNs have connections that create cycles, allowing information to persist.
 
+In an RNN, the hidden state at a given time step is influenced not only by the current input but also by the hidden state from the previous time step. This recurrent connection enables RNNs to capture dependencies in sequential data, making them suitable for tasks where context and order matter, such as natural language processing, time series analysis, and speech recognition.
+
