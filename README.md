@@ -38,4 +38,8 @@ All the data processing and model training are found in the following kaggle not
 
 https://www.kaggle.com/code/robertgembe/making-sentiment-programmable-using-embeddings/notebook
 
+Also i used a pretrained embedding from tensorflow hub. Follow the following link for my notebook to see;
+
+https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
+
 
