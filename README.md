@@ -48,3 +48,20 @@ Refer as a type of neural network architecture designed for handling sequential 
 
 In an RNN, the hidden state at a given time step is influenced not only by the current input but also by the hidden state from the previous time step. This recurrent connection enables RNNs to capture dependencies in sequential data, making them suitable for tasks where context and order matter, such as natural language processing, time series analysis, and speech recognition.
 
+Here's a basic overview of the components of an RNN:
+
+**Input Layer:**
+
+Receives input at each time step.
+
+**Hidden Layer:**
+
+Captures information from previous time steps and updates its state at each time step.
+
+**Recurrent Connection:**
+
+Allows the hidden state to be influenced by the previous hidden state, creating a memory effect.
+
+**Output Layer:**
+
+Produces the output based on the current hidden state.
