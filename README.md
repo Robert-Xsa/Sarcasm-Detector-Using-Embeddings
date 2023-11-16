@@ -1,4 +1,5 @@
 **Word embeddings **
+
 Refer as a dense vector representations of words, typically in a continuous vector space, where the positioning of words reflects their semantic relationships. These representations are learned from large corpora of text using unsupervised learning methods, and they capture the meanings of words in a way that is useful for various natural language processing (NLP) tasks.
 
 Sarcasm is a form of verbal irony that is intended to convey contempt or ridicule.It involves saying something but meaning the opposite, often in a dry or cutting tone. Sarcasm is a type of figurative language and is commonly used in everyday communication, literature, and humor.
