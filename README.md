@@ -73,3 +73,5 @@ Allows the hidden state to be influenced by the previous hidden state, creating 
 Produces the output based on the current hidden state.
 
 While RNNs are powerful for modeling sequential data, they have some challenges, such as difficulties in learning long-term dependencies (vanishing or exploding gradients) due to the repeated application of the same weight matrices. This has led to the development of more sophisticated RNN variants, including Long Short-Term Memory (LSTM) networks and Gated Recurrent Unit (GRU) networks, which address these issues and are widely used in practice.
+
+Both word embeddings and recurrent neural networks (RNNs) are widely used in natural language processing (NLP), each with its own set of advantages and disadvantages.
