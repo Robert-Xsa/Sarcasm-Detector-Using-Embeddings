@@ -42,4 +42,7 @@ Alternative; Also i used a pretrained embedding from tensorflow hub. Follow the 
 
 https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
 
+**Recurrent Neural Networks (RNNs)**
+
+Refer as a type of neural network architecture designed for handling sequential data. Unlike traditional feedforward neural networks, where the information flows in one direction (from input to output), RNNs have connections that create cycles, allowing information to persist.
 
