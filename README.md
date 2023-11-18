@@ -111,4 +111,5 @@ I used GloVe data.
 
 GloVe, which stands for Global Vectors for Word Representation, is an unsupervised learning algorithm for obtaining vector representations (embeddings) of words. These vector representations capture semantic relationships between words based on their co-occurrence statistics in a given corpus of text. The GloVe algorithm was introduced by researchers at Stanford University.
 
+The key idea behind GloVe is to learn word embeddings by factorizing the word co-occurrence matrix. The co-occurrence matrix is constructed based on the frequency with which words appear together in the same context within the given corpus. The resulting word vectors, or embeddings, represent words in a continuous vector space where the distances and directions between vectors reflect semantic relationships between the corresponding words.
 
