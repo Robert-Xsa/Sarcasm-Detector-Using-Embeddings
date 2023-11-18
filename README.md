@@ -85,3 +85,5 @@ https://www.kaggle.com/code/robertgembe/recurrent-neural-networks-for-natural-la
 Transfer learning is a machine learning technique where a model trained on one task is adapted for a second related task. In traditional machine learning approaches, models are trained to perform a specific task from scratch using a large dataset. However, transfer learning leverages knowledge gained from solving one problem and applies it to a different, but related, problem.
 
 The idea is that the knowledge acquired during the training of a model on one task can be useful for improving the performance of a model on a different task. This is particularly beneficial when the amount of labeled data for the target task is limited, as transfer learning allows the model to leverage knowledge gained from a larger dataset in the source task.
+
+There are different ways to perform transfer learning, but two common approaches are:
