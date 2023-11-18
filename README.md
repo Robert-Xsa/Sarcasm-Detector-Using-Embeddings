@@ -105,6 +105,10 @@ ii) Using Pretrained embedding with Recurrent Neural Networks (RNNs).
 
 https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-with-rnns/
 
-For Pretrained embedding with Recurrent Neural Networks (RNNs) I used GloVe data.
+I used GloVe data.
+
+**What is GloVe data?**
+
+GloVe, which stands for Global Vectors for Word Representation, is an unsupervised learning algorithm for obtaining vector representations (embeddings) of words. These vector representations capture semantic relationships between words based on their co-occurrence statistics in a given corpus of text. The GloVe algorithm was introduced by researchers at Stanford University.
 
 
