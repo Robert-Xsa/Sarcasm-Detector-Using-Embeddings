@@ -95,3 +95,5 @@ In this approach, a pre-trained model is used as a fixed feature extractor. The 
 **Fine-tuning**
 
 In fine-tuning, a pre-trained model is further trained on the new task with a smaller learning rate. This allows the model to adapt to the specific characteristics of the new task while retaining some of the knowledge acquired during the original training.
+
+Transfer learning has proven to be highly effective in various domains, such as computer vision, natural language processing, and speech recognition, where pre-trained models on large datasets, such as ImageNet or WordNet, can be used as a starting point for solving new tasks with less data.
