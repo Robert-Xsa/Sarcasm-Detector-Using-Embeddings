@@ -81,3 +81,6 @@ All the data processing and model training for Recurrent Neural Networks for Nat
 https://www.kaggle.com/code/robertgembe/recurrent-neural-networks-for-natural-language-pro/
 
 **3.Transfer learning**
+
+Transfer learning is a machine learning technique where a model trained on one task is adapted for a second related task. In traditional machine learning approaches, models are trained to perform a specific task from scratch using a large dataset. However, transfer learning leverages knowledge gained from solving one problem and applies it to a different, but related, problem.
+
