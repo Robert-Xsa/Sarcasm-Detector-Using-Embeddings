@@ -97,8 +97,14 @@ Transfer learning has proven to be highly effective in various domains, such as 
 
 I used this technique of transfer learning in the following two different ways;
 
-i) Using Pretrained embedding from tensorflow hub. https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
+i) Using Pretrained embedding from tensorflow hub. 
 
-ii) Using Pretrained embedding with Recurrent Neural Networks (RNNs). https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-with-rnns/
+https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
+
+ii) Using Pretrained embedding with Recurrent Neural Networks (RNNs). 
+
+https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-with-rnns/
+
+For Pretrained embedding with Recurrent Neural Networks (RNNs) I used GloVe data.
 
 
