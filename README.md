@@ -105,7 +105,7 @@ ii) Using Pretrained embedding with Recurrent Neural Networks (RNNs).
 
 https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-with-rnns/
 
-I used GloVe data.
+For Pretrained embedding with Recurrent Neural Networks (RNNs), GloVe data was used.
 
 **What is GloVe data?**
 
