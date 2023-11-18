@@ -44,9 +44,6 @@ All the data processing and model training are found in the following kaggle not
 
 https://www.kaggle.com/code/robertgembe/making-sentiment-programmable-using-embeddings/
 
-Alternative; Also i used a pretrained embedding from tensorflow hub. Follow the following link for my notebook to see;
-
-https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
 
 **2. Recurrent Neural Networks (RNNs)**
 
@@ -97,3 +94,11 @@ In this approach, a pre-trained model is used as a fixed feature extractor. The 
 In fine-tuning, a pre-trained model is further trained on the new task with a smaller learning rate. This allows the model to adapt to the specific characteristics of the new task while retaining some of the knowledge acquired during the original training.
 
 Transfer learning has proven to be highly effective in various domains, such as computer vision, natural language processing, and speech recognition, where pre-trained models on large datasets, such as ImageNet or WordNet, can be used as a starting point for solving new tasks with less data.
+
+I used this technique of transfer learning in the following two different ways;
+
+i) Using Pretrained embedding from tensorflow hub. https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-from-tensorflow-hub/
+
+ii) Using Pretrained embedding with Recurrent Neural Networks (RNNs). https://www.kaggle.com/code/robertgembe/using-pretrained-embeddings-with-rnns/
+
+
