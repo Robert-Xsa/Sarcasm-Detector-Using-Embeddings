@@ -87,3 +87,11 @@ Transfer learning is a machine learning technique where a model trained on one t
 The idea is that the knowledge acquired during the training of a model on one task can be useful for improving the performance of a model on a different task. This is particularly beneficial when the amount of labeled data for the target task is limited, as transfer learning allows the model to leverage knowledge gained from a larger dataset in the source task.
 
 There are different ways to perform transfer learning, but two common approaches are:
+
+**Feature Extraction**
+
+In this approach, a pre-trained model is used as a fixed feature extractor. The early layers of the model, which capture generic features, are retained, and only the later layers specific to the original task are replaced or retrained for the new task.
+
+**Fine-tuning**
+
+In fine-tuning, a pre-trained model is further trained on the new task with a smaller learning rate. This allows the model to adapt to the specific characteristics of the new task while retaining some of the knowledge acquired during the original training.
