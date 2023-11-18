@@ -114,3 +114,13 @@ GloVe, which stands for Global Vectors for Word Representation, is an unsupervis
 The key idea behind GloVe is to learn word embeddings by factorizing the word co-occurrence matrix. The co-occurrence matrix is constructed based on the frequency with which words appear together in the same context within the given corpus. The resulting word vectors, or embeddings, represent words in a continuous vector space where the distances and directions between vectors reflect semantic relationships between the corresponding words.
 
 The GloVe model is trained on large corpora, and the learned embeddings can be used in various natural language processing (NLP) tasks, such as text classification, sentiment analysis, machine translation, and more. The GloVe embeddings have become widely used in the field of NLP and are often pre-trained on large datasets, making them available for transfer learning in downstream applications. These pre-trained embeddings can be downloaded as GloVe data, which typically includes word vectors for a large vocabulary. Users can then incorporate these pre-trained embeddings into their NLP models to benefit from the semantic information captured during the GloVe training process.
+
+To get more information about GloVe data refer to its official websites;
+
+https://nlp.stanford.edu/projects/glove/
+
+To use the GloVe data direct in the kaggle notebook refer to;
+
+https://www.kaggle.com/datasets/robertyoung/glove-twitter-pickles-27b-25d-50d-100d-200d
+
+
