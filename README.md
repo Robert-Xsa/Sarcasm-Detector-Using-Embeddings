@@ -77,3 +77,5 @@ While RNNs are powerful for modeling sequential data, they have some challenges,
 Both word embeddings and recurrent neural networks (RNNs) are widely used in natural language processing (NLP), each with its own set of advantages and disadvantages.
 
 All the data processing and model training for Recurrent Neural Networks for Natural Language processing are found in the following kaggle notebook;
+
+https://www.kaggle.com/code/robertgembe/recurrent-neural-networks-for-natural-language-pro/
